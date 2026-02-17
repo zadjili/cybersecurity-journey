@@ -6,7 +6,7 @@ with a primary focus on becoming a professional Red Team specialist.
 ---
 
 ## 🎯 Current Phase
-CompTIA A+ Core 1 (220-1101)
+CompTIA A+ Core 1 (220-1201)
 
 ---
 
