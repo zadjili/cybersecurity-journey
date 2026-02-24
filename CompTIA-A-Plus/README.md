@@ -6,6 +6,3 @@ This section documents my preparation for CompTIA A+ certification.
 
 - Weekly-Notes → Weekly study documentation
 - Labs → Practical exercises (VM setup, configurations, etc.)
-
-## Current Status
-Preparing to start Core 1 (220-1201).
